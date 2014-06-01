@@ -9,3 +9,5 @@ Working up with squash1.
 Working up with Squash2.
 
 Working with multiple commit 1
+
+Working with multiple commit 2

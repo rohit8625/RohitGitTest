@@ -1,3 +1,9 @@
 Hello World
 
 Adding one more line.!
+
+Creating a new branch
+
+Working up with squash1.
+
+Working up with Squash2.

@@ -7,3 +7,5 @@ Creating a new branch
 Working up with squash1.
 
 Working up with Squash2.
+
+Working with multiple commit 1
